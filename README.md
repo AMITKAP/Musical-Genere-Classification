@@ -75,8 +75,6 @@ This is the final interactive web app for music genre recommendation and audio p
 - Ensure `Data/features_3_sec.csv` and audio files in `Data/genres_original/` are present.
 - Only files from 'hiphop' and 'rock' genres will be recommended and previewed.
 
-## License
-This project is for educational purposes. Please check dataset and code licenses before commercial use.
 
 ## Acknowledgments
 - GTZAN Music Genre Dataset
